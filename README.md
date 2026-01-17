@@ -1,22 +1,70 @@
- ╔════════════════════════════════════════════════════════════════════════════╗
- ║                                                                            ║
- ║  ██████╗ ███████╗ █████╗ ██████╗       ██╗  ██╗      ██████╗ ██████╗  ██████╗      ║
- ║  ██╔══██╗██╔════╝██╔══██╗██╔══██╗      ╚██╗██╔╝      ██╔══██╗██╔══██╗██╔═══██╗     ║
- ║  ██████╔╝█████╗  ███████║██║  ██║       ╚███╔╝       ██████╔╝██████╔╝██║   ██║     ║
- ║  ██╔══██╗██╔══╝  ██╔══██║██║  ██║       ██╔██╗       ██╔═══╝ ██╔══██╗██║   ██║     ║
- ║  ██║  ██║███████╗██║  ██║██████╔╝      ██╔╝ ██╗      ██║     ██║  ██║╚██████╔╝     ║
- ║  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝       ╚═╝  ╚═╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝      ║
- ║                                                                            ║
- ║           P Y T H O N   >   D I G I T A L   C R E A T O R                  ║
- ║                                                                            ║
- ╚════════════════════════════════════════════════════════════════════════════╝
+"""
+READ-X-PRO GITHUB PROFILE
+A Python-Centric Digital Portfolio
+"""
 
+# ============================================================================
+#                                 PROFILE HEADER
+# ============================================================================
+
+ ╔════════════════════════════════════════════════════════════════════════════╗
+ ║                                                                            ║
+ ║    ██████╗ ███████╗ █████╗ ██████╗     ██╗  ██╗    ██████╗ ██████╗  ██████╗  ║
+ ║    ██╔══██╗██╔════╝██╔══██╗██╔══██╗    ╚██╗██╔╝    ██╔══██╗██╔══██╗██╔═══██╗ ║
+ ║    ██████╔╝█████╗  ███████║██║  ██║     ╚███╔╝     ██████╔╝██████╔╝██║   ██║ ║
+ ║    ██╔══██╗██╔══╝  ██╔══██║██║  ██║     ██╔██╗     ██╔═══╝ ██╔══██╗██║   ██║ ║
+ ║    ██║  ██║███████╗██║  ██║██████╔╝    ██╔╝ ██╗    ██║     ██║  ██║╚██████╔╝ ║
+ ║    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ║
+ ║                                                                            ║
+ ║                    P Y T H O N   >   D I G I T A L   C R E A T O R        ║
+ ║                                                                            ║
+ ╚════════════════════════════════════════════════════════════════════════════╝
+
+
+# ============================================================================
+#                                 TERMINAL PROMPT
+# ============================================================================
+
+┌─[read-x-pro@github]─[~/python-profile]
+└──╼ $ ./initialize_profile.sh
+
+>>> Loading READ-X-PRO Configuration...
+>>> ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+>>> PROFILE READY
+
+╔══════════════════════════════════════════════════════════╗
+║  USER: ENYANWUMA DANIEL IKECHUKWU                       ║
+║  ROLE: Python Developer / Biomedical Engineer           ║
+║  STATUS: Active - Building Medical & Creative Solutions ║
+║  LOCATION: Digital Space                                ║
+╚══════════════════════════════════════════════════════════╝
+
+
+# ============================================================================
+#                                 TYPEWRITER ANIMATION
+# ============================================================================
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=00FF9D&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Biomedical+Engineer;3D+Modeler+%7C+Digital+Creator+%7C+Automation+Expert;Building+with+Code+and+Creativity;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</div>
+
+
+# ============================================================================
+#                                 QUICK ACCESS
+# ============================================================================
 
 <div align="center">
 
-PYTHON DEVELOPER × BACKEND ARCHITECT × AUTOMATION SPECIALIST
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DOrbitron%26weight%3D700%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D00FF9D%26center%3Dtrue%26vCenter%3Dtrue%26width%3D700%26lines%3DAutomating%2Bthe%2BBoring%2BStuff%3BArchitecting%2BScalable%2BBackends%3BCrunching%2BData%2Bwith%2BPandas%3BBuilding%2BAI%2BDriven%2BSolutions" alt="Typing SVG" />
+```bash
+┌─[QUICK_LINKS]─────────────────────────────────────────────────────┐
+│                                                                    │
+│  🏠 PORTFOLIO    https://your-portfolio.com                       │
+│  📧 EMAIL        your.email@example.com                           │
+│  💼 LINKEDIN     linkedin.com/in/yourprofile                      │
+│  🐙 GITHUB       github.com/YOUR_USERNAME                         │
+│  🎥 YOUTUBE      youtube.com/@yourchannel                         │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 
 </div>
 
